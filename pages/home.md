@@ -8,6 +8,6 @@ tags:
   - nav
 ---
 # The urban travel companion
-🍳
+
 An open platform to help people survive. Sign up to get early access.
 [Get access](https://www.producthunt.com/upcoming/komuter/)
