@@ -7,7 +7,7 @@ navtitle: Home
 tags:
   - nav
 ---
-# Welcome
-
-We are baking a new experience of commuting
+# The urban travel companion
+🍳
+An open platform to help people survive. Sign up to get early access.
 [Get access](https://www.producthunt.com/upcoming/komuter/)
