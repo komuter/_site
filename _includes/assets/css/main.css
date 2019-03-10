@@ -150,7 +150,14 @@ main{}
     text-align: center;
   }
     main .callout h1{
-      font-size: 1.8em;
+      font-size: 2em;
+    }
+    main .callout .getnow{
+      background: #9700FF;
+      border-radius: 28.5px;
+      color: #fff;
+      text-align: center;
+      font-weight: 700;
     }
 
 
