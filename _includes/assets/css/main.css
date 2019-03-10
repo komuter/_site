@@ -152,6 +152,9 @@ main{}
     main .callout h1{
       font-size: 2em;
     }
+    main .callout p{
+      margin: 0 0 1em;
+    }
     main .callout .getnow{
       font-size: .9em;
       background: #9700FF;
@@ -159,7 +162,7 @@ main{}
       color: #fff;
       text-align: center;
       font-weight: 700;
-      padding: 1.2em 2em;
+      padding: 1em 1.8em;
       text-decoration: none;
     }
 
