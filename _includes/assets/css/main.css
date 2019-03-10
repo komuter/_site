@@ -156,6 +156,7 @@ main{}
       margin: 0 0 1em;
     }
     main .callout .getnow{
+      display: inline-block;
       font-size: .9em;
       background: #9700FF;
       border-radius: 30px;
