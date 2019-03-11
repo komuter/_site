@@ -298,7 +298,7 @@ main{}
         }
     header .nav{}
       header .nav li{
-        margin-left: 48;
+        margin-left: 48px;
       }
       header .nav .label{
         display: inline-block;
