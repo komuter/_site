@@ -281,7 +281,7 @@ main{}
     height: 55px;
     z-index: 999;
   }
-  .hero{
+  main .hero{
     position: absolute;
     left: 0;
     top: 0;
@@ -289,7 +289,7 @@ main{}
     width: 50%;
     height: 100%;
   }
-  .callout{
+  main .callout{
     position: absolute;
     right: 0;
     top: 0;
