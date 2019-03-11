@@ -129,6 +129,7 @@ header{
       width: 100%;
       height: 100%;
       background: no-repeat url({{ "static/img/logo_light.svg" | url }});
+      background-size: cover;
     }
   header .nav{
     float: right;
