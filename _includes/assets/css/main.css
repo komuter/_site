@@ -128,7 +128,7 @@ header{
       top: 0;
       width: 100%;
       height: 100%;
-      background: no-repeat url({{ "static/img/icon_twitter.svg" | url }});
+      background: no-repeat url({{ "static/img/logo_light.svg" | url }});
     }
   header .nav{
     float: right;
