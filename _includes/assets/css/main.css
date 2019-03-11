@@ -287,9 +287,10 @@ main{}
     right: 50%;
     top: 0;
     bottom: 0;
+    width: auto;
   }
     main .hero img{
-      max-width: 80%;
+      max-width: 75%;
       height: auto;
       position: absolute;
       bottom: 0;
@@ -302,7 +303,15 @@ main{}
     top: 0;
     bottom: 0;
     padding: 5em;
+    padding-top: 25%;
+    text-align: left;
   }
+    main .callout h1{
+      font-size: 3em;
+    }
+    main .callout p{
+      font-size: 1.4em;
+    }
 
 }
 
