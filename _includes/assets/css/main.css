@@ -177,7 +177,7 @@ main{}
       display: inline-block;
       font-size: .9em;
       background: #9700FF;
-      border-radius: 30px;
+      border-radius: 60px;
       color: #fff;
       text-align: center;
       padding: 1em 1.8em;
@@ -272,7 +272,7 @@ main{}
    Modify as content requires.
    ========================================================================== */
 
-@media only screen and (min-width: 35em) {
+@media only screen and (min-width: 41em) {
   header{
     position: absolute;
     left: 0;
@@ -281,6 +281,14 @@ main{}
     height: 55px;
     z-index: 999;
   }
+    header .logo a{
+      width: 153px;
+      height: 32px;
+    }
+      header .logo a span{
+        background-image: url({{ "static/img/logo_grad.svg" | url }});
+      }
+    header .nav{}
   main .hero{
     position: absolute;
     left: 0;
@@ -302,7 +310,7 @@ main{}
     left: 50%;
     top: 0;
     bottom: 0;
-    padding: 5em;
+    padding: 80px;
     padding-top: 25%;
     text-align: left;
   }
