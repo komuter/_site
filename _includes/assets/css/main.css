@@ -284,18 +284,24 @@ main{}
   main .hero{
     position: absolute;
     left: 0;
+    right: 50%;
     top: 0;
     bottom: 0;
-    width: 50%;
-    height: 100%;
   }
+    main .hero img{
+      max-width: 80%;
+      height: auto;
+      position: absolute;
+      bottom: 0;
+      right: 0;
+    }
   main .callout{
     position: absolute;
     right: 0;
+    left: 50%;
     top: 0;
     bottom: 0;
-    width: 50%;
-    height: 100%;
+    padding: 5em;
   }
 
 }
