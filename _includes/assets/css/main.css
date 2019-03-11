@@ -141,6 +141,11 @@ header{
     float: left;
     margin-left: 24px;
   }
+  header .nav a{
+    text-decoration: none;
+    color: #9700FF;
+    text-transform: uppercase;
+  }
   header .nav .label{
     display: none;
   }
@@ -276,10 +281,11 @@ main{}
   header{
     position: absolute;
     left: 0;
+    right: 0;
     top: 0;
     height: 55px;
     z-index: 999;
-    padding: 30px;
+    padding: 30px 80px;
   }
     header .logo{}
       header .logo a{
@@ -290,6 +296,9 @@ main{}
           background-image: url({{ "static/img/logo.svg" | url }});
         }
     header .nav{}
+      header .nav .label{
+        display: block;
+      }
   main .hero{
     position: absolute;
     left: 0;
