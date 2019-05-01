@@ -190,6 +190,15 @@ main{}
       text-decoration: none;
       text-transform: uppercase;
     }
+    main .badge-store{
+      display: inline-block;
+      width: 120px;
+      height: 40px;
+      text-decoration: none;
+    }
+    main .badge-store img{
+      max-width: 100%;
+    }
 
 
 /* ==========================================================================
