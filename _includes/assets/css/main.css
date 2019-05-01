@@ -192,8 +192,8 @@ main{}
     }
     main .badge-store{
       display: inline-block;
-      width: 120px;
-      height: 40px;
+      width: 150px;
+      height: 50px;
       text-decoration: none;
     }
     main .badge-store img{
